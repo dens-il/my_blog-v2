@@ -66,6 +66,7 @@ body {
   align-items: center;
 }
 .header__section2-button {
+  font-family: 'Anton', sans-serif;
   color: #ddd;
   border: 3px #ddd solid;
   background-color: transparent;
