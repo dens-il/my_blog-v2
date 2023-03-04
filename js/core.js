@@ -41,7 +41,7 @@ document.querySelector('.block-poloski-text5').addEventListener('click', functio
 	this.textContent = this.textContent == 'Number of hours won by me in CS:GO.' ? "Кількість годин, награних мною в CS:GO." : 'Number of hours won by me in CS:GO.';
 });
 document.querySelector('.footer__quote-text').addEventListener('click', function(){
-	this.textContent = this.textContent == 'The real hero, glorious, is not the one in shining armor and a beautiful pose. A hero is someone who does what needs to be done. And you have to get dirty, and shed blood, but he still does it, because it’s necessary. A man is a man because he understands this.' ? 'Настоящий герой, Слав, это не тот, кто в сияющих доспехах и красивой позе. Герой — тот, кто делает, что нужно сделать. И запачкаться приходиться, и кровь проливать, а он всё равно делает, потому что так надо. Мужик — он потому и мужик, что это понимает.' : 'The real hero, glorious, is not the one in shining armor and a beautiful pose. A hero is someone who does what needs to be done. And you have to get dirty, and shed blood, but he still does it, because it’s necessary. A man is a man because he understands this.';
+	this.textContent = this.textContent == 'A woman opposes a man only to experience the pleasure of defeat.' ? 'Жінка виступає проти чоловіка лише для того, щоб відчути насолоду поразки.' : 'A woman opposes a man only to experience the pleasure of defeat.';
 });
 document.querySelector('.translete1').addEventListener('click', function(){
 	this.textContent = this.textContent == 'About me' ? "Про мене" : 'About me';
