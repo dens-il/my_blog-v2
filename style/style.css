@@ -437,4 +437,11 @@ body {
   top : 650px;
   left: 100%;
   margin-right: 20px;
+  border: 2px solid white;
+
+  transition: all .3s;
+}
+.buttonup:hover {
+  color: #ddd;
+  background-color: #0a0a0a;
 }
