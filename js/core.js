@@ -29,7 +29,7 @@ document.querySelector('.block-poloski-text1').addEventListener('click', functio
 	this.textContent = this.textContent == 'About that many months I learned to program.' ? "Приблизно стільки місяців я навчаюся програмуванню." : 'About that many months I learned to program.';
 });
 document.querySelector('.block-poloski-text2').addEventListener('click', function(){
-	this.textContent = this.textContent == 'This is a lesson in the programming course that I stopped at.' ? "Це урок з курсу програмування, на якому я зупинився." : 'This is a lesson in the programming course that I stopped at.';
+	this.textContent = this.textContent == 'The number of completed lessons from the programming course.' ? "Кількість пройдених уроків з курсу програмування." : 'The number of completed lessons from the programming course.';
 });
 document.querySelector('.block-poloski-text3').addEventListener('click', function(){
 	this.textContent = this.textContent == "That's how many Java Script skills I have." ? "Саме стільки я маю навичок Java Script." : "That's how many Java Script skills I have.";
